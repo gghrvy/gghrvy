@@ -8,7 +8,7 @@ BS Information Technology — Web Applications Development
 University of San Jose-Recoletos · Cebu City, Philippines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harvy-montederamos)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harvymontederamos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harvyh.montederamos@gmail.com)
 
 </div>
 
@@ -95,7 +95,9 @@ Front-end development, QA testing, website design, and 3D visualization for an A
 
 Open to remote opportunities in software development, full stack, and frontend engineering.
 
-[linkedin.com/in/harvy-montederamos](https://linkedin.com/in/harvy-montederamos)
+📧 harvyh.montederamos@gmail.com
+📱 +63 919 065 2138
+💼 [linkedin.com/in/harvy-montederamos](https://linkedin.com/in/harvy-montederamos)
 
 ---
 

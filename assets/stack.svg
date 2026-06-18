@@ -1,10 +1,9 @@
-
-<svg width="760" height="410" viewBox="0 0 760 410" xmlns="http://www.w3.org/2000/svg">
-  <rect width="760" height="410" fill="#0B0B0F"/>
+<svg width="1010" height="550" viewBox="0 0 1010 550" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1010" height="550" fill="#0B0B0F"/>
 
   <!-- Languages -->
   <rect x="24" y="24" width="140" height="32" rx="16" fill="#38BDF8"/>
-  <text x="94" y="45" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0B1320" text-anchor="middle">LANGUAGES</text>
+  <text x="94" y="45" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0B0F1A" text-anchor="middle">LANGUAGES</text>
   <rect x="180" y="24" width="104" height="32" rx="8" fill="#16161A" stroke="#38BDF8" stroke-width="1.2"/>
   <text x="192" y="45" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">TypeScript</text>
   <rect x="294" y="24" width="70" height="32" rx="8" fill="#16161A" stroke="#38BDF8" stroke-width="1.2"/>
@@ -25,22 +24,30 @@
   <text x="278" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">React</text>
   <rect x="338" y="90" width="84" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
   <text x="350" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Tailwind</text>
-  <rect x="432" y="90" width="84" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
-  <text x="444" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Three.js</text>
-  <rect x="526" y="90" width="56" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
-  <text x="538" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">GSAP</text>
-  <rect x="592" y="90" width="120" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
-  <text x="604" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Framer Motion</text>
+  <rect x="432" y="90" width="90" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="444" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">shadcn/ui</text>
+  <rect x="532" y="90" width="84" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="544" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Three.js</text>
+  <rect x="626" y="90" width="56" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="638" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">GSAP</text>
+  <rect x="692" y="90" width="120" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="704" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Framer Motion</text>
+  <rect x="822" y="90" width="62" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="834" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">D3.js</text>
+  <rect x="894" y="90" width="84" height="32" rx="8" fill="#16161A" stroke="#F59E0B" stroke-width="1.2"/>
+  <text x="906" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Recharts</text>
 
   <!-- Backend -->
   <rect x="24" y="156" width="140" height="32" rx="16" fill="#10B981"/>
-  <text x="94" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#052E1C" text-anchor="middle">BACKEND</text>
+  <text x="94" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0B0F1A" text-anchor="middle">BACKEND</text>
   <rect x="180" y="156" width="76" height="32" rx="8" fill="#16161A" stroke="#10B981" stroke-width="1.2"/>
   <text x="192" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">FastAPI</text>
   <rect x="266" y="156" width="76" height="32" rx="8" fill="#16161A" stroke="#10B981" stroke-width="1.2"/>
   <text x="278" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Laravel</text>
   <rect x="352" y="156" width="76" height="32" rx="8" fill="#16161A" stroke="#10B981" stroke-width="1.2"/>
   <text x="364" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Node.js</text>
+  <rect x="438" y="156" width="84" height="32" rx="8" fill="#16161A" stroke="#10B981" stroke-width="1.2"/>
+  <text x="450" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">REST API</text>
 
   <!-- AI -->
   <rect x="24" y="222" width="140" height="32" rx="16" fill="#6366F1"/>
@@ -51,10 +58,14 @@
   <text x="292" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Groq API</text>
   <rect x="374" y="222" width="120" height="32" rx="8" fill="#16161A" stroke="#6366F1" stroke-width="1.2"/>
   <text x="386" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Vercel AI SDK</text>
+  <rect x="504" y="222" width="104" height="32" rx="8" fill="#16161A" stroke="#6366F1" stroke-width="1.2"/>
+  <text x="516" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Claude Code</text>
+  <rect x="618" y="222" width="98" height="32" rx="8" fill="#16161A" stroke="#6366F1" stroke-width="1.2"/>
+  <text x="630" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Claude API</text>
 
   <!-- Database -->
   <rect x="24" y="288" width="140" height="32" rx="16" fill="#14B8A6"/>
-  <text x="94" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#042F2A" text-anchor="middle">DATABASE</text>
+  <text x="94" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0B0F1A" text-anchor="middle">DATABASE</text>
   <rect x="180" y="288" width="98" height="32" rx="8" fill="#16161A" stroke="#14B8A6" stroke-width="1.2"/>
   <text x="192" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">PostgreSQL</text>
   <rect x="288" y="288" width="62" height="32" rx="8" fill="#16161A" stroke="#14B8A6" stroke-width="1.2"/>
@@ -63,6 +74,10 @@
   <text x="372" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Supabase</text>
   <rect x="454" y="288" width="76" height="32" rx="8" fill="#16161A" stroke="#14B8A6" stroke-width="1.2"/>
   <text x="466" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Amplify</text>
+  <rect x="540" y="288" width="72" height="32" rx="8" fill="#16161A" stroke="#14B8A6" stroke-width="1.2"/>
+  <text x="552" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Prisma</text>
+  <rect x="622" y="288" width="86" height="32" rx="8" fill="#16161A" stroke="#14B8A6" stroke-width="1.2"/>
+  <text x="634" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">pgvector</text>
 
   <!-- Analytics -->
   <rect x="24" y="354" width="140" height="32" rx="16" fill="#EC4899"/>
@@ -73,4 +88,28 @@
   <text x="286" y="375" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">GA4</text>
   <rect x="334" y="354" width="98" height="32" rx="8" fill="#16161A" stroke="#EC4899" stroke-width="1.2"/>
   <text x="346" y="375" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">MS Clarity</text>
+
+  <!-- Tools -->
+  <rect x="24" y="420" width="140" height="32" rx="16" fill="#84CC16"/>
+  <text x="94" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0B0F1A" text-anchor="middle">TOOLS</text>
+  <rect x="180" y="420" width="50" height="32" rx="8" fill="#16161A" stroke="#84CC16" stroke-width="1.2"/>
+  <text x="192" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Git</text>
+  <rect x="240" y="420" width="70" height="32" rx="8" fill="#16161A" stroke="#84CC16" stroke-width="1.2"/>
+  <text x="252" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">GitHub</text>
+  <rect x="320" y="420" width="70" height="32" rx="8" fill="#16161A" stroke="#84CC16" stroke-width="1.2"/>
+  <text x="332" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Vercel</text>
+  <rect x="400" y="420" width="62" height="32" rx="8" fill="#16161A" stroke="#84CC16" stroke-width="1.2"/>
+  <text x="412" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E5E5E5">Figma</text>
+
+  <!-- Familiar with -->
+  <rect x="24" y="486" width="140" height="32" rx="16" fill="#27272A"/>
+  <text x="94" y="507" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#A1A1AA" text-anchor="middle">FAMILIAR WITH</text>
+  <rect x="180" y="486" width="90" height="32" rx="8" fill="#16161A" stroke="#3F3F46" stroke-width="1.2"/>
+  <text x="192" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#71717A">.NET / C#</text>
+  <rect x="280" y="486" width="38" height="32" rx="8" fill="#16161A" stroke="#3F3F46" stroke-width="1.2"/>
+  <text x="292" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#71717A">Go</text>
+  <rect x="328" y="486" width="70" height="32" rx="8" fill="#16161A" stroke="#3F3F46" stroke-width="1.2"/>
+  <text x="340" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#71717A">Docker</text>
+  <rect x="408" y="486" width="62" height="32" rx="8" fill="#16161A" stroke="#3F3F46" stroke-width="1.2"/>
+  <text x="420" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#71717A">Redis</text>
 </svg>

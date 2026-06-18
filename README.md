@@ -1,129 +1,56 @@
 <div align="center">
-
-### Harvy H. Monte de Ramos
-*Software Developer · Cebu City, Philippines*
-
-**"With AI, nothing is impossible."**
-
-Open to remote roles in software development, full stack, and AI integration.
-
+  <img src="./assets/banner.svg" width="100%" alt="Harvy H. Monte de Ramos — Software Developer" />
 </div>
 
 <br/>
 
-```bash
-harvy@portfolio:~$ whoami
-```
-```
-Software developer building full-stack web applications and AI-integrated tools.
-Background in AIoT systems. Currently building a B2B platform from scratch.
-```
+Software developer building full-stack web applications and AI-integrated tools. Background in AIoT systems. Currently building a B2B platform from scratch.
 
 <br/>
 
-```bash
-harvy@portfolio:~$ git diff team-knowledge
-```
-```diff
-- senior dev leaves, three years of context walks out the door with them
-- new hire spends months reading code nobody can explain
-+ Day One: AI platform that preserves a team's knowledge, permanently
-+ new hire is productive from day one, not month three
-```
+## Currently building
 
 > **Day One** — the knowledge layer for engineering teams.
-> `Next.js` `FastAPI` `LangChain` `Groq` `Supabase` `pgvector` `React Flow`
+>
+> When a senior developer leaves, their context walks out the door with them. When a new hire joins, they spend months reading code nobody can explain. Day One fixes both — an AI platform where teams can ask their own codebase questions and preserve the decisions behind it, permanently.
+
+`Next.js` `FastAPI` `LangChain` `Groq` `Supabase` `pgvector` `React Flow`
 
 <br/>
 
-```bash
-harvy@portfolio:~$ cat stack.yaml
-```
-```yaml
-languages:
-  - TypeScript
-  - Python
-  - PHP
-  - JavaScript
-  - SQL
+## Shipped
 
-frontend:
-  - Next.js 14
-  - React
-  - Tailwind CSS
-  - Three.js
-  - Framer Motion
-  - GSAP
-
-backend:
-  - FastAPI
-  - Laravel
-  - Node.js
-
-ai:
-  - LangChain
-  - Groq API
-  - Vercel AI SDK
-
-database:
-  - PostgreSQL
-  - MySQL
-  - Supabase
-  - Amazon Amplify
-
-analytics:
-  - Power BI
-  - Google Analytics 4
-  - Microsoft Clarity
-```
+| | Project | Stack |
+|---|---|---|
+| 🟢 | **OneTap** — multi-tenant HOA management, AI-assisted heatmaps & reservations | `Next.js` `MySQL` `REST API` |
+| 🟢 | **Scentora** — fragrance e-commerce, built as a school project | `Laravel` `PHP` `Livewire` |
+| 🟢 | **BantayKo** — AI-assisted personal safety app, 3-layer protection | `React Native` `AI` |
+| 🟡 | **Cinema 3D Portfolio** — cinema-themed personal portfolio | `Three.js` `GSAP` `Framer Motion` |
 
 <br/>
 
-```bash
-harvy@portfolio:~$ ls -la projects/
-```
-```
-drwxr-xr-x   day-one/              building   AI team-knowledge platform for engineering orgs
-drwxr-xr-x   onetap/               shipped    multi-tenant HOA management, AI-assisted
-drwxr-xr-x   scentora/             shipped    Laravel + Livewire fragrance e-commerce
-drwxr-xr-x   cinema-portfolio/     building   cinema-themed 3D portfolio, Three.js
-drwxr-xr-x   bantayko/             shipped    AI-assisted personal safety app
-```
-
-<br/>
-
-```bash
-harvy@portfolio:~$ git log --oneline --graph --all
-```
-```
-* 9f2a1c4 (HEAD -> main) building: Day One — AI knowledge platform for dev teams
-* 6b3d2e1 shipped: OneTap — multi-tenant HOA management platform
-* 1a4f9c0 work: Software Engineer @ Xeleqt Technology Innovations Inc.
-* 7e2b8a3 grad: BS Information Technology, Web Applications Dev — USJ-R
-* 0000000 init: born and raised in Cebu City, Philippines
-```
-
-<br/>
-
-```bash
-harvy@portfolio:~$ curl api.harvy.dev/contact
-```
-```json
-{
-  "email": "harvyh.montederamos@gmail.com",
-  "phone": "+63 919 065 2138",
-  "linkedin": "linkedin.com/in/harvy-montederamos",
-  "status": "open_to_remote_roles",
-  "timezone": "Asia/Manila (GMT+8)"
-}
-```
-
-<br/>
+## Stack
 
 <div align="center">
-
-```bash
-harvy@portfolio:~$ _
-```
-
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack — languages, frontend, backend, AI, database, analytics" />
 </div>
+
+<br/>
+
+## Experience
+
+**Software Engineer** — Xeleqt Technology Innovations Inc., Cebu City, Philippines
+Front-end development, QA testing, website design, and 3D visualization for an AIoT startup.
+
+## Education
+
+**BS Information Technology, Web Applications Development**
+University of San Jose-Recoletos, Cebu City, Philippines
+
+<br/>
+
+## Contact
+
+📧 harvyh.montederamos@gmail.com · 📱 +63 919 065 2138 · 💼 [linkedin.com/in/harvy-montederamos](https://linkedin.com/in/harvy-montederamos)
+
+Open to remote roles in software development, full stack, and AI integration.

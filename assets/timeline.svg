@@ -1,1 +1,18 @@
 
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="140" fill="#0B0B0F"/>
+
+  <line x1="80" y1="90" x2="1120" y2="90" stroke="#27272A" stroke-width="2"/>
+
+  <!-- Education node -->
+  <text x="260" y="40" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FAFAFA" text-anchor="middle">BS Information Technology</text>
+  <text x="260" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#A1A1AA" text-anchor="middle">University of San Jose-Recoletos</text>
+  <circle cx="260" cy="90" r="9" fill="#F59E0B" stroke="#0B0B0F" stroke-width="3"/>
+  <text x="260" y="114" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#71717A" text-anchor="middle">2022 – 2026</text>
+
+  <!-- Experience node -->
+  <text x="820" y="40" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FAFAFA" text-anchor="middle">Software Engineer</text>
+  <text x="820" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#A1A1AA" text-anchor="middle">Xeleqt Technology Innovations Inc.</text>
+  <circle cx="820" cy="90" r="9" fill="#6366F1" stroke="#0B0B0F" stroke-width="3"/>
+  <text x="820" y="114" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#71717A" text-anchor="middle">2023 – Present</text>
+</svg>

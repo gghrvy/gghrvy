@@ -33,5 +33,14 @@ Software developer building full-stack web applications and AI-integrated tools.
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
-  <img src="./assets/contact.svg" width="100%" alt="Contact — email, phone, LinkedIn" />
+
+| | |
+|---|---|
+| <a href="mailto:harvyh.montederamos@gmail.com"><img src="./assets/mail-icon.svg" width="22" valign="middle"/></a> | [harvyh.montederamos@gmail.com](mailto:harvyh.montederamos@gmail.com) |
+| <a href="tel:+639190652138"><img src="./assets/phone-icon.svg" width="22" valign="middle"/></a> | [+63 919 065 2138](tel:+639190652138) |
+| <a href="https://linkedin.com/in/harvy-montederamos"><img src="./assets/linkedin-icon.svg" width="22" valign="middle"/></a> | [linkedin.com/in/harvy-montederamos](https://linkedin.com/in/harvy-montederamos) |
+| <a href="https://github.com/gghrvy"><img src="./assets/github-icon.svg" width="22" valign="middle"/></a> | [github.com/gghrvy](https://github.com/gghrvy) |
+
+**Open to remote roles worldwide.**
+
 </div>

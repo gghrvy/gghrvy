@@ -1,0 +1,17 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sunGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="55%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="#0B0B0F"/>
+  <circle cx="950" cy="270" r="150" fill="url(#sunGrad)"/>
+  <line x1="0" y1="210" x2="1200" y2="210" stroke="#27272A" stroke-width="1"/>
+  <text x="64" y="108" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#FAFAFA" letter-spacing="1">HARVY H. MONTE DE RAMOS</text>
+  <text x="64" y="144" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#A1A1AA">Software Developer · Cebu City, Philippines</text>
+  <text x="64" y="180" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#FDE68A">&#34;With AI, nothing is impossible.&#34;</text>
+  <rect x="64" y="205" width="230" height="34" rx="17" fill="none" stroke="#F59E0B" stroke-width="1.5"/>
+  <text x="179" y="227" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#FDE68A" text-anchor="middle" letter-spacing="0.5">OPEN TO REMOTE ROLES</text>
+</svg>

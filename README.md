@@ -18,6 +18,13 @@ Software developer building full-stack web applications and AI-integrated tools.
 
 ## Projects
 
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| [ProspectOS](https://github.com/gghrvy/Prospectos) | Finds local businesses, audits their sites with Playwright, scores each lead and drafts outreach for human review | Next.js, FastAPI, Postgres | [Demo](https://prospectos-blond.vercel.app/prospects) |
+| [Clippilot](https://github.com/gghrvy/Clippilot) | Turns long videos into captioned vertical clips with AI ranking, a clip editor and a background worker | Python, faster-whisper, Groq/Ollama, FFmpeg, React | [Demo](https://clippilot-bice.vercel.app) |
+| [Day One](https://github.com/gghrvy/Dev-Day-One) | Chat with your codebase: RAG over GitHub repos, architecture graphs, ADRs | Next.js, FastAPI, Supabase pgvector, Groq | [Demo](https://devdayone.vercel.app) |
+
+
 <div align="center">
   <img src="./assets/projects.svg" width="100%" alt="Projects — Day One, OneTap, Scentora, BantayKo, Cinema 3D Portfolio" />
 </div>
